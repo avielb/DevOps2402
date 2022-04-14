@@ -1,4 +1,5 @@
 x = 1
+ttt = 4
 print(x != 1)
 print(x < 5)
 print(0 < x < 3)
